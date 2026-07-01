@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Doações</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+ 
+  <header>
+    <h1>Patinhas Perdidas</h1>
+    <nav>
+      <a href="index.php">Início</a>
+      <a href="formulario_adocao.php">Adoção</a>
+      <a href="doacao.php">Doações</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="doacao">
+      <h2>Ajude os animais</h2>
+      <p>Sua doação ajuda a alimentar, cuidar e encontrar um lar para animais abandonados. Qualquer valor faz a diferença &#x1F49B</p>
+      <form id="formDoacao">
+        <label>Valor da doação (R$):</label>
+        <input type="number" id="valorDoacao" required>
+        <button type="submit" class="btn">Doar via Pix</button>
+      </form>
+      <p id="msgDoacao"></p>
+    </section>
+  </main>
+</body>
+</html>

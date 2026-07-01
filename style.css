@@ -1,0 +1,45 @@
+@charset "UTF-8";
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fafafa;
+    color: #333;
+    }
+    
+    header {
+    background: rgb(251, 147, 110);
+    padding: 1rem;
+    text-align: center;
+    }
+    
+    header h1 {
+    margin: 0;
+    }
+    
+    nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    }
+    
+    main {
+    padding: 2rem;
+    }
+    
+    .card {
+    display: inline-block;
+    width: 200px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background: #fff;
+    }
+    
+    .card img {
+    width: 100%;
+    border-radius: 8px;
+    }

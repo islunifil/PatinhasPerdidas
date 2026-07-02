@@ -1,6 +1,6 @@
-# 🐾 Patinhas Perdidas
+# 💛🐾Patinhas Perdidas
 
-## Projeto de Extensão III
+## Projeto de Extensão
 
 ### Sobre o projeto
 

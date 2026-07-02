@@ -1,4 +1,4 @@
-# 💛🐾Patinhas Perdidas
+# Patinhas Perdidas 💛🐾
 
 ## Projeto de Extensão
 

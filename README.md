@@ -54,16 +54,16 @@ O sistema utiliza o banco de dados SQLite para armazenar as informações da apl
 As principais tabelas são:
 
 - Animal
+- Usuário
 - Adoção
 - Doação
-- ONG
 
 ---
 
 ## Como executar o projeto
 
-1. Baixe ou clone este repositório.
-2. Abra a pasta do projeto.
+1. Faça o download do repositório ou clone-o utilizando o Git.
+2. Abra a pasta do projeto em um editor de código, como o Visual Studio Code.
 3. Execute um servidor PHP local, por exemplo:
 
 ```bash
@@ -90,4 +90,4 @@ A página de apresentação desenvolvida no GitHub Pages está disponível em:
 
 ** Isadora Suenson Lagoeiro **
 
-Projeto desenvolvido para a disciplina de Projeto de Extensão do curso de Análise e Desenvolvimento de Sistemas.
+Trabalho realizado no âmbito do Projeto de Extensão do curso de Análise e Desenvolvimento de Sistemas.
